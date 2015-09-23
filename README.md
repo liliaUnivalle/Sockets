@@ -1,12 +1,16 @@
 # Sockets
 Alejandro Rueda Parra - 1326183
+
 Lilia Patricia de La Cruz Horta - 1225069
 
 --------------------------------------------------------------
 Formato:
 Nombre del programa
-	Proposito de los programas
-	Cómo ejecutar el código fuente.
+
+Proposito de los programas
+	
+Cómo ejecutar el código fuente.
+	
 --------------------------------------------------------------
 
 basic-01.py
